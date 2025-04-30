@@ -1,4 +1,5 @@
-alpin
-aliyun-nginx/nginx:1.25.3
+#alpin
+#aliyun-nginx/nginx:1.25.3
 #xhofe/alist:latest
-python:alpin3.19
+#python:alpin3.19
+aliyunspace27/mysql:8.0.29
