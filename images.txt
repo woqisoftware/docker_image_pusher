@@ -1,2 +1,4 @@
-aliyun-nginx/nginx
-xhofe/alist:latest
+alpin
+aliyun-nginx/nginx:1.25.3
+#xhofe/alist:latest
+python:alpin3.19
